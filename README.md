@@ -6,7 +6,9 @@
 
 ## Frontend Pull Request
 
-[Github PR]()
+[Github PR](https://github.com/pasytchangwa/pasytchangwa-hello-react-front-end/pull/1)
+
+[API-Live](https://thawing-beyond-81828.herokuapp.com/api/greetings)
 
 ## Built With
 
